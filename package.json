@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for resume builder",
+  "homepage": "https://github.com/Adarsh-mernstack/Resume-Builder#readme",
+  "bugs": {
+    "url": "https://github.com/Adarsh-mernstack/Resume-Builder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarsh-mernstack/Resume-Builder.git"
+  },
+  "license": "ISC",
+  "author": "Adarsh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
